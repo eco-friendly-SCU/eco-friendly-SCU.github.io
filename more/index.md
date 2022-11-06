@@ -1,5 +1,5 @@
 ---
-layout: more
+layout: post
 title: More
 tags: 
 date: 2022-11-06
