@@ -1,6 +1,6 @@
 ---
-layout: page
-title: more
+layout: more
+title: More
 tags: 
 date: 2022-11-06
 comments: false

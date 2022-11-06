@@ -34,7 +34,6 @@ email: envi_scu@proton.me
 #github-url:         username
 
 
-
 # Gems
 gems:
   - jekyll-mentions
