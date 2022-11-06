@@ -1,37 +1,17 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: 关于我们
+tags: 
+date: 2022-11-06
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+<center>我对人类感到悲观，因为它对于自己的利益太过精明。我们对待自然的办法是打击并使之屈服。如果我们不是这样的多疑和专横，如果我们能调整好与这颗行星的关系，并深怀感激之心对待它，我们本可有更好的存活机会。</center><p style="text-align:right">——E.B怀特</p>
 
-## Preview
+人与环境的关系是一个历史悠久的话题，世界上很多组织都在关注这一课题，也有很多人奉献了自己的一生去求索。
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+在互联网技术盛行的今天，有很多人在通过新的办法传播关于环保的知识和理念。我们旨在整合互联网上与环境保护这一议有关的网站，以飨大众。我们做的并不是一个自有的科普网站，也并不自己产出资料——我们只是提供资料的来源，指引用户该如何去了解环保。
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+我们希望为你提供一次all in one的索引体验，让你能够由浅入深地了解环保的方方面面以及了解该如何去身体力行地践行环保。当然，在这个复杂的世界里，环保不是你、我、他，或者任何一个社会和国家单独的事情，它应该是我们所有人的事。也正是所有人的努力和行动在推动这一切的改变。相信你在浏览本网页的时候，能够感到这种来自五湖四海的呼唤。
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+最后，我们是来自SCU的一个学生团体，我们与点开本网站的你们一样，关注着我们赖以生存的地球。
