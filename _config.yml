@@ -2,7 +2,7 @@
 title:              Eco-Friendly-SCU
 bio:                '一个关于环境保护的主页'
 description:        "走近环境保护，环保主题网址导航"
-reading_time:       true
+reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/efs.svg'
 background:         'assets/img/background.jpg'
