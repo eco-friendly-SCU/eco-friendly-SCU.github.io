@@ -1,8 +1,7 @@
 # Site navigation links
 
-- title: Contact
-  url: /contact/
-
-
 - title: 自然画廊
   url: /pic_n/
+
+- title: Contact
+  url: /contact/
